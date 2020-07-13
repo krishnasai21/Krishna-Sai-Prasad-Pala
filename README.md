@@ -26,3 +26,5 @@ Databases:	Oracle 11g, MySQL,
 CI/CD 	Gitlab, GitHub.
 IDEs:	Eclipse, Android Studio, VS-Code.
 Cloud:	AWS EC2, AWS S3, AWS IAM, AWS Cloud Watch, AWS EBS, Oracle Cloud, Google Cloud Platform
+
+Contact via mail Id : palakrishnasai@gmail.com
